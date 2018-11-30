@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.4'
+gem 'rails', '4.2.11'
 
 gem 'activerecord-import'
 gem 'bootstrap-sass'
@@ -8,7 +8,7 @@ gem 'bootswatch-rails'
 gem 'coffee-rails'
 gem 'devise'
 gem 'dotenv-rails'
-gem 'exception_notification'
+gem 'exception_notification', '>= 4.1.1'
 gem 'faraday'
 gem 'font-awesome-rails'
 gem 'foreman'
