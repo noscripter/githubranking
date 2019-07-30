@@ -40,7 +40,7 @@ group :development, :test do
   gem 'capistrano-sidekiq'
   gem 'factory_girl'
   gem 'pry-byebug'
-  gem 'pry-doc'
+  gem 'pry-doc', '>= 0.8.0'
   gem 'pry-rails'
   gem 'rspec-rails'
   gem 'silencer'
